@@ -4,6 +4,6 @@ WORKDIR /flaskapp
 
 COPY app.py requirements.txt /flaskapp/
 
-RUN pip install flask
+RUN pip install -r requirements.txt
 
-CMD ["python", "app.py"]
+CMD ["python", "app.py"] 
