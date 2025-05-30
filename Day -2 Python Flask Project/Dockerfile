@@ -5,7 +5,7 @@ FROM python:3.14.0a7-slim
 WORKDIR /flaskapp
 
 # Copy the application files to the directory 
-COPY app.py requirements.txt /flaskapp/
+COPY . /flaskapp/
 
 # Run requirements.txt
 RUN pip install -r requirements.txt
