@@ -29,3 +29,8 @@ docker build -t terminal-calculator .
 ```bash
 docker run -it terminal-calculator
 ```
+
+### 🐳 Want to pull image from docker Hub
+```bash
+docker pull spartan0007/calculator:1.0
+```
