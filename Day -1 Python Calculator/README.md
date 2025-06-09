@@ -25,12 +25,15 @@ All interactions happen through the terminal, making it a perfect use case to ex
 ```bash
 docker build -t terminal-calculator .
 ```
+
 ### 🔨 Run the Container (with interactive terminal)
+
 ```bash
 docker run -it terminal-calculator
 ```
 
 ### 🐳 Want to pull image from docker Hub
+
 ```bash
 docker pull spartan0007/calculator:1.0
 ```
