@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🐳 Docker Day 5 – Docker Swarm & Overlay Network
 
 This project documents my hands-on experience with **Docker Swarm** and **Overlay Networking** using **AWS EC2** instances. It demonstrates how to create a Swarm cluster, deploy services with high availability, and understand container scheduling and networking.
