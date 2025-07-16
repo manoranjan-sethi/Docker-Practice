@@ -114,7 +114,7 @@ Useful when the original manager node becomes unavailable.
 * Node drain and container rescheduling
 * Overlay networking between nodes
 
-> Screenshots can be found in the project image folder (if included in your repo).
+> Screenshots can be found in the project folder
 
 ## 📌 Connect
 
