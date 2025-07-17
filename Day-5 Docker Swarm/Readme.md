@@ -10,6 +10,7 @@ This project documents my hands-on experience with **Docker Swarm** and **Overla
 Here’s a visual representation of the Docker Swarm overlay network and service distribution:
 
 ![Docker Swarm Overlay Network](./docker-swarm-overlay.png)
+
 ## ⚙️ Setup Overview
 
 - **Total EC2 Instances**: 4  
@@ -23,6 +24,7 @@ Here’s a visual representation of the Docker Swarm overlay network and service
 ## 🔧 Commands Used
 
 ### 🌀 Initialize Swarm on Master Node
+
 ```bash
 sudo docker swarm init
 ````
